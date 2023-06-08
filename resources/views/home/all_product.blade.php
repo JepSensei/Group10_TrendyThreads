@@ -11,7 +11,7 @@
       <meta name="description" content="" />
       <meta name="author" content="" />
       <link rel="shortcut icon" href="images/favicon.png" type="">
-      <title>Famms - Fashion HTML Template</title>
+      <title>Group 10 - Trendy Threads</title>
       <!-- bootstrap core css -->
       <link rel="stylesheet" type="text/css" href="home/css/bootstrap.css" />
       <!-- font awesome style -->
@@ -34,9 +34,9 @@
       @include('home.footer')
       <!-- footer end -->
       <div class="cpy_">
-         <p class="mx-auto">© 2021 All Rights Reserved By <a href="https://html.design/">Free Html Templates</a><br>
+         <p class="mx-auto">© 2021 All Rights Reserved By <a href="https://github.com/orgs/KodeGo-Bootcamp/teams/trendy-threads">Group 10</a><br>
          
-            Distributed By <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+            Distributed By <a href="https://github.com/orgs/KodeGo-Bootcamp/teams/trendy-threads" target="_blank">Group 10</a>
          
          </p>
       </div>
@@ -49,4 +49,4 @@
       <!-- custom js -->
       <script src="home/js/custom.js"></script>
    </body>
-</html>home/
+</html>

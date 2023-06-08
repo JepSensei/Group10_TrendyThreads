@@ -17,7 +17,7 @@
                             On Everything
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque eos quisquam, nam deserunt magni eveniet quo modi, officia necessitatibus esse ad assumenda consectetur quaerat nihil odio quos blanditiis. Dignissimos, obcaecati!
                          </p>
                          <div class="btn-box">
                             <a href="" class="btn1">
@@ -42,7 +42,7 @@
                             On Everything
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam reiciendis nihil nesciunt. Possimus ab debitis quae. Eligendi cupiditate atque labore rem porro incidunt vero, doloribus, corporis dignissimos veritatis omnis provident!
                          </p>
                          <div class="btn-box">
                             <a href="" class="btn1">
@@ -67,7 +67,7 @@
                             On Everything
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat quisquam ullam aliquam voluptates quam a, doloremque fuga architecto reprehenderit laboriosam cumque blanditiis ipsam dolorem vitae! Aspernatur reprehenderit odit nisi praesentium?
                          </p>
                          <div class="btn-box">
                             <a href="" class="btn1">
